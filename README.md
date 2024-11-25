@@ -8,3 +8,5 @@ We have made use of Java Swing and MySQL Database for performing the same.
 •	Java Swing was used to create a Graphical Layout of the Game.
 
 •	Database was used for the players to Login and SignUp.
+
+![Screenshot_25-11-2024_132315_](https://github.com/user-attachments/assets/15465287-f70d-4d98-98f3-c66c09b2b163)
